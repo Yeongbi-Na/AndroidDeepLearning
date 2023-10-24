@@ -22,9 +22,3 @@
 ## 2. 카메라 연동하기
 
 
-## 딥러닝 모델
-0. LangChain 및 ChatGPt 공부
-1. LangChain 기반 ChatGPT 모델 간단 구현
-2. 필요 데이터 수집 및 전처리
-3. ChatGPT에 수집 데이터 연동
-4. Prompt Engineering
