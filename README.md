@@ -10,7 +10,6 @@
 3. 주제 선정 + 그에 맞는 컴퓨터 비전 모델(segmentation or OD) 구현하기
 4. 모델과 어플 연동하기
 
-
 ## 0. 자바 복습
 - [기초 개념, 자료형, 연산자, 입출력, 비트연산](https://blog.naver.com/ongbbb/222947594158) </br>
 - [조건 제어문, 반복문](https://blog.naver.com/ongbbb/222947612834)
@@ -23,3 +22,9 @@
 ## 2. 카메라 연동하기
 
 
+## 딥러닝 모델
+0. LangChain 및 ChatGPt 공부
+1. LangChain 기반 ChatGPT 모델 간단 구현
+2. 필요 데이터 수집 및 전처리
+3. ChatGPT에 수집 데이터 연동
+4. Prompt Engineering
